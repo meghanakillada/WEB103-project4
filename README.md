@@ -1,23 +1,23 @@
-# WEB103 Project 4 - *Name of App Here*
+# WEB103 Project 4 - Dynamic Data**
 
-Submitted by: **Your name here**
+Submitted by: **Maggie Killada**
 
-About this web app: **App description here**
+About this web app: **Displays data about cars.**
 
-Time spent: **X** hours
+Time spent: **4** hours
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
-- [ ] **The web app is connected to a PostgreSQL database, with an appropriately structured `CustomCar` table**
-  - [ ] **NOTE: Your GIF must include a view of your Railway database that shows the contents of the table used by your app**
-- [ ] **The web app uses React to display data from the API**
+- [x] **The web app is connected to a PostgreSQL database, with an appropriately structured `CustomCar` table**
+  - [x] **NOTE: Your GIF must include a view of your Railway database that shows the contents of the table used by your app**
+- [x] **The web app uses React to display data from the API**
 - [ ] **Users can view a list of options they can select for different aspects of a `CustomCar`**
 - [ ] **On selecting each option, the displayed visual icon for the `CustomCar` updates to match the option the user chose**
-- [ ] **The user can submit their choices to save the car to the list of created `CustomCar`**
-- [ ] **If a user submits a feature combo that is impossible, they should receive an appropriate error message and the item should not be saved to the database**
+- [x] **The user can submit their choices to save the car to the list of created `CustomCar`**
+- [x] **If a user submits a feature combo that is impossible, they should receive an appropriate error message and the item should not be saved to the database**
 - [ ] **The app displays the total price of all features**
 - [ ] **Users can view a list of all submitted `CustomCar`**
 - [ ] **Users can edit or delete a submitted `CustomCar` from the list view of submitted `CustomCar`**
@@ -35,10 +35,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='WEB103_project4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  GIF tool here
+GIF created with LiceCap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -50,7 +50,7 @@ Describe any challenges encountered while building the app or any additional con
 
 ## License
 
-Copyright [yyyy] [name of copyright owner]
+Copyright [2024] [Maggie Killada]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
